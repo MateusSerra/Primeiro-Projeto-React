@@ -1,0 +1,8 @@
+.buttons-container{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    font-size: 25px;
+    border: solid 4px black
+    }
