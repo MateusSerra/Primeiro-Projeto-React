@@ -12,7 +12,7 @@ In my initial foray into React, I undertook a series of exercises aimed at famil
 
 👨‍💻 Technologies Used: React.
 
-<a  href= "primeiro-projeto-react-1r4pg1era-mateusserras-projects.vercel.app"> Link for my project </a>
+<a  href= "https://primeiro-projeto-react-h7nyqbp0l-mateusserras-projects.vercel.app/"> Link for my project </a>
 
 
 Versão em Português:
@@ -29,4 +29,4 @@ Em minha primeira incursão no React, realizei uma série de exercícios com o o
 
 👨‍💻 Tecnologias Utilizadas: React.
 
-<a  href= "primeiro-projeto-react-1r4pg1era-mateusserras-projects.vercel.app"> Link para meu projeto </a>
+<a  href= "https://primeiro-projeto-react-h7nyqbp0l-mateusserras-projects.vercel.app/"> Link para meu projeto </a>
